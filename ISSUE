@@ -1,0 +1,15 @@
+I've created this file as I can't see how to contact the author or to raise an issue.
+
+I've used the National Grid: Live site to monitor the grid from time to time and I've noticed that the generation graph & table is incorrectly calculated.
+
+A snapshot the other day
+
+Looking at the graph it's blatantly obvious that gas is generating more than 50% yet in table it's stated as 48.5%.
+
+Looks like the table is showing the demand and how much of the demand came from what (including interconnects).
+
+BUT the generation graph should use the calculation of UK generating %'s
+
+EG gas is 55.73% of the UK generated
+
+The table should include the statement that it is where the total demand not generation originates.
